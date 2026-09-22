@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LxY8PXPE1sw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zionn\\Desktop\\CodeStack Academy Combine\\A Homework\\Student Registry ShowersZ\\Student Registry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zionn\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\zionn\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
